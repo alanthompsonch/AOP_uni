@@ -1,5 +1,5 @@
 # defining the colour palette; add and edit colours here
- viamia_colors <- c(
+viamia_colors <- c(
   "blue"     = "#0077BB",
   "cyan"     = "#33BBEE",
   "teal"     = "#009988",
