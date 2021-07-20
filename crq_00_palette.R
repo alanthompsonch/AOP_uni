@@ -12,14 +12,4 @@
 
 colors_viamia <- c("#0077BB", "#33BBEE", "#009988", "#EE7733", "#CC3311", "#EE3377", "#BBBBBB", "#000000") 
 
-# Function to extract the colours as hex codes
-# @param ... character names of the colours -> palette_viamia("blue", "teal")
-
-#palette_viamia <- function(...) {
-#  cols <- c(...)
- 
-#  if (is.null(cols))
-#    return (viamia_colors)
-  
-#  viamia_colors[cols]
-#}
+blau_abst <- rev(c("#2171b5", "#6baed6", "#bdd7e7", "#eff3ff"))
